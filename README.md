@@ -1,10 +1,6 @@
 # TypeScript & Zod with React-Hook-Form
 
----
-
-### Author
-
-## Dave Gray
+### Author : Dave Gray
 
 ---
 
